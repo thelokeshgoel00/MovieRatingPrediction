@@ -1,5 +1,5 @@
-# Movie Rating Prediction Using Naive Bayes
-Naive Bayes Custom Made Algorithm is used. <br>
+# Movie Rating Prediction Using Naive Bayes and Multivariate Bernaulli
+2 algorithms are separated in different files. Both will do similar work<br>
 In this Movie Rating Prediction I will be using Reviews along with their labels in csv format to train.<br>
 ## Dataset Cleaning
 For all the strings of review we will do:
